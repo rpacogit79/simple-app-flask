@@ -10,5 +10,5 @@ def main():
 def hello():
     return 'I am good. How about you?'
 
-if__name__=="__main__":
+if__name__=='__main__':
     app.run(host="0.0.0.0", port=8080)
